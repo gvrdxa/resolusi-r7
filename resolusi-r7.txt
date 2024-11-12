@@ -1,6 +1,10 @@
 RESOLUSI R7
 - konsisten belajar coding setiap hari
+  * belajar AI
+  * belajar Network
 - membuat video edukasi
 - membuat platform untuk pengelolaan video
 - membuat vlog
 - cari kerja remote
+  * di Indonesia
+  * di luar negeri
