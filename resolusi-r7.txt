@@ -1,7 +1,7 @@
 RESOLUSI R7
 - konsisten belajar coding setiap hari
   * belajar AI
-  * belajar Advertising
+  * belajar Network
 - membuat video edukasi
 - membuat platform untuk pengelolaan video
 - membuat vlog
